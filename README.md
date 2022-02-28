@@ -1,7 +1,7 @@
 #  EKATERINA PAVLOVA  #  
 ##  Junior Android Developer  ##  
 ---
-![Photo](img/photo.jpg)  
+![Photo](img/photo.JPG)  
 
 ###  About me  #  
 I am looking for practice in Android developing. I would like to take part in different projects to have more expirience. I am really interested in coding.
