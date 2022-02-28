@@ -3,10 +3,10 @@
 ---
 ![Photo](img/photo.JPG)  
 
-###  About me  #  
+###  **About me**  #  
 I am looking for practice in Android developing. I would like to take part in different projects to have more expirience. I am really interested in coding.
 
-###  My skills  ###  
+###  **My skills**  ###  
 * Java (basic)
 * Git & GitHub (basic)
 * Algorithms (studying)
@@ -14,6 +14,11 @@ I am looking for practice in Android developing. I would like to take part in di
 * Android Studio
 * Intellij idea  
 
-###  Contact me  ###  
+### **My projects** ###  
+[Link to GitHub](https://github.com/katrina2209 "Tap here")
+
+###  **Contact me**  ###  
 <katrina22@mail.ru>  
-+7 (911) 840-26-68
++7 (911) 840-26-68  
+
+
