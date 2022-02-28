@@ -16,3 +16,4 @@ I am looking for practice in Android developing. I would like to take part in di
 
 ###  Contact me  ###  
 <katrina22@mail.ru>  
++7 (911) 840-26-68
